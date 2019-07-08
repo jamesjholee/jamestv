@@ -7,15 +7,9 @@
     },
     {
       "title": "I created a new stream with a userid",
-      "description": "This has a userid",
+      "description": "This has a userid232",
       "userId": "108626503971533464715",
       "id": 2
-    },
-    {
-      "title": "This is a test of what should happen when you create a stream",
-      "description": "this should go to the  home page",
-      "userId": "108626503971533464715",
-      "id": 3
     }
   ]
 }

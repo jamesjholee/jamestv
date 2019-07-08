@@ -51,7 +51,6 @@ const validate = (formValues) => {
   if (!formValues.description) {
     errors.description = 'You must enter a description';
   }
-  console.log(errors)
   return errors;
 }
 
